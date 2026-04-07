@@ -1,5 +1,12 @@
 # 🏀 Milano Public Courts
 
+## 🚀 Demo
+
+Live demo: [https://team-balancer-berna.vercel.app/](https://basket-milano.vercel.app/)
+
+---
+
+
 A modern web platform designed to connect people playing basketball in public courts across Milan.
 
 Scan a QR code at a playground, check who’s there, and join the game.
